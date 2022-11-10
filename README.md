@@ -1,11 +1,9 @@
-![Header]([https://fuertedevelopers.com/assets/img/projects/graphicdesigning.gif])
+[!Header](https://fuertedevelopers.com/assets/img/projects/graphicdesigning.gif)
 <h1 align="center">Hi , I'm Muhammad Hasnain</h1>
-<h3 align="center">A passionate UI/UX Designer from Pakistan</h3>
-<img alig="right" alt="designing" width="400" src="https://www.digitalartsonline.co.uk/cmsdata/features/3692307/designer_and_client_5__dribbble_.gif">
+<h3 align="center">A passionate UI/UX Designer from Pakistan</h3><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammhkamran&label=Profile%20views&color=0e75b6&style=flat" alt="iammhkamran" /> </p>
+<p align="left"><img align="right" alt="designing" width="400" src="https://www.digitalartsonline.co.uk/cmsdata/features/3692307/designer_and_client_5__dribbble_.gif"></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammhkamran" alt="iammhkamran" /></a> </p>
 
 - 🌱 I’m currently learning **UI/UX Designing**
 
