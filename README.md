@@ -1,4 +1,3 @@
-[!Header](https://fuertedevelopers.com/assets/img/projects/graphicdesigning.gif)
 <h1 align="center">Hi , I'm Muhammad Hasnain</h1>
 <h3 align="center">A passionate UI/UX Designer from Pakistan</h3><br><br>
 
